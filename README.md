@@ -283,6 +283,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 * [Interview Cake Java Interview Questions](https://www.interviewcake.com/java-interview-questions)
 * [Java Interview Questions & Quizzes](https://www.techbeamers.com/java-interview-questions/)
 * [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
+* [100+ Java Interview Questions You Must Prepare In 2021](https://www.edureka.co/blog/interview-questions/java-interview-questions/)
 
 ### JavaScript
 
